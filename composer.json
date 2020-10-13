@@ -1,0 +1,14 @@
+{
+    "name": "amir/graphql",
+    "authors": [
+        {
+            "name": "Amir Etemad",
+            "email": "amiretemad2000@gmail.com"
+        }
+    ],
+    "require": {
+        "webonyx/graphql-php": "^14.3",
+      "ext-json": "*",
+        "ext-mbstring": "*"
+    }
+}
