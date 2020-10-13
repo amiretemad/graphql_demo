@@ -14,3 +14,15 @@ query {
     }
 }
 ```
+
+
+```qraphql
+query {
+    getBooks {
+        title
+    },
+    getAuthors {
+        id 
+    }
+}
+```
